@@ -1,0 +1,50 @@
+h1{
+    color:#57A6A1;
+    background-color: #577B8D;
+}
+
+body{
+    color:#57A6A1;
+    background-color: #240750;
+}
+p {
+    color:aqua;
+}
+p {
+    color:#57A6A1;
+}
+#ozet{
+    color:darkgreen;
+}
+
+#ozet3{
+
+    color:fuchsia;
+}
+
+
+.yazi{
+    color:chocolate;
+}
+
+.metin{
+
+    color:gold;
+}
+
+#kenarlik{
+/*
+border:1px solid #fff;
+*/
+border-style:solid;
+border-color:#fff;
+border-width:1px;
+
+
+
+border-radius: 10px;
+
+
+
+
+}

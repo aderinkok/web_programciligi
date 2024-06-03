@@ -1,0 +1,23 @@
+#genel{
+    background-image: url("img/texture.jpg");
+    background-repeat: repeat;
+
+}
+
+p{
+    color:#000;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 500;
+    font-variant: small-caps;
+    text-align:right;
+    text-decoration: underline;
+    text-decoration-color:#0ff ;
+    text-transform: capitalize;
+    text-indent: 5px;
+    letter-spacing: 5px;
+    line-height: 50px;
+    word-spacing: 5px;
+    
+}

@@ -1,0 +1,21 @@
+#kutu{
+background-color: blue;
+
+}
+
+p{
+    background-color: aquamarine;
+    border:1px solid #000;
+    /*margin: 0px 0px 0px 0px;
+    margin: 5px 10px 15px;
+    margin: 5px 10px;*/
+    margin: 0px;
+    padding: 35px 5px;
+}
+
+div{
+
+    background-color: #f00;
+    width: 100px;
+    height: 100px;
+}

@@ -1,0 +1,23 @@
+a:link{
+    color:rgb(73, 196, 84);
+    text-decoration: none;
+}
+
+a:visited{
+    color:rgb(73, 196, 84);
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+a:active {
+    color: #0000FF;
+  }
+
+  a:focus{
+font-size:30px;
+color:crimson;
+
+  }
